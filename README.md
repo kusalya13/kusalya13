@@ -1,4 +1,4 @@
-# Hi, I'm Kusalya
+# **KUSALYA THATHSARANI**
 
 I studied Physical Science at A/L. I'm interested in electrical engineering and automation, especially how controllers respond when a sensor reading changes or goes missing. I use this profile to share my projects, the tests I ran, and what I learned.
 
