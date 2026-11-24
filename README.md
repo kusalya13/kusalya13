@@ -2,13 +2,6 @@
 
 I studied Physical Science at A/L. I'm interested in electrical engineering and automation, especially how controllers respond when a sensor reading changes or goes missing. I use this profile to share my projects, the tests I ran, and what I learned.
 
-## Tech & Tools
-
-| Area | Tools and practice |
-| --- | --- |
-| Controller simulation | Excel formulas, state transitions and timing |
-| Verification | Expected vs. actual results, boundary tests and fault recovery |
-| Currently learning | Python for reading event logs and checking controller behavior |
 
 ## Key Projects
 
